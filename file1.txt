@@ -2,5 +2,6 @@ this is the initial version of the project.
 file has been updated.
 
 Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation and packaging to testing, deployment, and publishing. 
-Supported languages include Java (as well as Kotlin, Groovy, Scala), C/C++, and JavaScript.[2] Gradle builds on the concepts of Apache Ant and Apache Maven, and introduces a Groovy- and Kotlin-based domain-specific language contrasted with the XML-based project configuration used by Maven.
+[1] Supported languages include Java (as well as Kotlin, Groovy, Scala), C/C++, and JavaScript.
+[2] Gradle builds on the concepts of Apache Ant and Apache Maven, and introduces a Groovy- and Kotlin-based domain-specific language contrasted with the XML-based project configuration used by Maven.
 [3] Gradle uses a directed acyclic graph to determine the order in which tasks can be run, through providing dependency management. It runs on the Java Virtual Machine.[4]
