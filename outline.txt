@@ -1,1 +1,2 @@
 I continue learning git where i left off.
+additional info about the outline.
